@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "length": "214 pages"
+  },
+  {
+    "id": 2,
+    "name": "The Dark Knight Returns",
+    "author": "Frank Miller",
+    "year": 1986,
+    "length": "224 pages"
+  },
+  {
+    "id": 3,
+    "name": "Abbey Road",
+    "author": "The Beatles",
+    "year": 1969,
+    "length": "47 minutes"
+  },
+  {
+    "id": 4,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "author": "Nintendo",
+    "year": 2017,
+    "length": "60+ hours"
+  },
+  {
+    "id": 5,
+    "name": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "length": "328 pages"
+  }
+]
